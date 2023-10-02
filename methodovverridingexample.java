@@ -10,7 +10,7 @@
 		void dis()
 		{
 		System.out.println("i am brother of ravi yadav");
-		super.dis();
+		super.dis
 		}
 	}
 class methodovverridingexample
