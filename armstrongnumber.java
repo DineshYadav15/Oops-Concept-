@@ -1,5 +1,5 @@
 import java.util.*;
-class ArmstrongN0
+class Armstrongnumber
 {
 	public static void main(String args[])
 	{
